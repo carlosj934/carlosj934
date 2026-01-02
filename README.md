@@ -30,6 +30,8 @@ My career started in the U.S. military and IT help desk, then grew into supporti
   * Supported global operations teams to ensure the continuous reliability and availability of critical physical security systems deployed on VMWare and managed via Terraform and Ansible.
   * Responded to high-severity incidents (SEVs), provided real-time operational support, and contributed to post-incident root cause analysis.
 
+## Contact Me
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlosjcorona934@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosjcorona)
 <!--
 **carlosj934/carlosj934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
